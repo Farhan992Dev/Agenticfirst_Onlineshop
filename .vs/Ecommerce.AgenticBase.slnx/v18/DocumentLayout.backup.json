@@ -1,45 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\",
+  "WorkspaceRootPath": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentfirstecommerce-secure-v4\\agentfirstecommerce_secure\\src\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentfirstecommerce-secure-v4\\agentfirstecommerce_secure\\src\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentfirstecommerce-secure-v4\\agentfirstecommerce_secure\\src\\ecommerce.api\\security\\apikeyauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\security\\apikeyauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\security\\apikeyauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentfirstecommerce-secure-v4\\agentfirstecommerce_secure\\src\\ecommerce.api\\models\\agentapikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\models\\agentapikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\models\\agentapikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentfirstecommerce-secure-v4\\agentfirstecommerce_secure\\src\\ecommerce.api\\migrations\\20261029202601_addagentapikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\migrations\\20261029202601_addagentapikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\migrations\\20261029202601_addagentapikeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tirdad\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentfirstecommerce-secure-v4\\agentfirstecommerce_secure\\src\\ecommerce.api\\security\\permissioncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\security\\permissioncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\security\\permissioncatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C839D588-01AA-F7EA-C73D-77D4DF9F1280}|Ecommerce.Core\\Ecommerce.Core.csproj|d:\\myproject\\agentfirstecommerce-secure-v4\\agentfirstecommerce_secure\\src\\ecommerce.core\\agentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C839D588-01AA-F7EA-C73D-77D4DF9F1280}|Ecommerce.Core\\Ecommerce.Core.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.core\\agentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C839D588-01AA-F7EA-C73D-77D4DF9F1280}|Ecommerce.Core\\Ecommerce.Core.csproj|solutionrelative:ecommerce.core\\agentidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029203933_initialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerce.Api\\Migrations\\20261029203933_initialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029203933_initialData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|d:\\myproject\\agentifirstonlineshop\\src\\ecommerce.api\\migrations\\20261030063530_addagentpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|Ecommerce.Api\\Ecommerce.Api.csproj|solutionrelative:ecommerce.api\\migrations\\20261030063530_addagentpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -101,33 +104,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ecommerce.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T15:42:20.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ApiKeyAuthenticationHandler.cs",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Security\\ApiKeyAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Security\\ApiKeyAuthenticationHandler.cs",
               "RelativeDocumentMoniker": "Ecommerce.Api\\Security\\ApiKeyAuthenticationHandler.cs",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Security\\ApiKeyAuthenticationHandler.cs",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Security\\ApiKeyAuthenticationHandler.cs",
               "RelativeToolTip": "Ecommerce.Api\\Security\\ApiKeyAuthenticationHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwD8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T10:55:16.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AgentApiKey.cs",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Models\\AgentApiKey.cs",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Models\\AgentApiKey.cs",
               "RelativeDocumentMoniker": "Ecommerce.Api\\Models\\AgentApiKey.cs",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Models\\AgentApiKey.cs",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Models\\AgentApiKey.cs",
               "RelativeToolTip": "Ecommerce.Api\\Models\\AgentApiKey.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA7wBkAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T07:34:21.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-30T07:34:21.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExecutionContext.cs",
               "DocumentMoniker": "C:\\Users\\Tirdad\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
               "ToolTip": "C:\\Users\\Tirdad\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs [Read Only]",
@@ -138,64 +153,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "20261030063530_AddAgentPermission.cs",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs",
               "RelativeDocumentMoniker": "Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs",
               "RelativeToolTip": "Ecommerce.Api\\Migrations\\20261030063530_AddAgentPermission.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T06:35:30.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-30T06:35:30.794Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PermissionCatalog.cs",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Security\\PermissionCatalog.cs",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Security\\PermissionCatalog.cs",
               "RelativeDocumentMoniker": "Ecommerce.Api\\Security\\PermissionCatalog.cs",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Security\\PermissionCatalog.cs",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Security\\PermissionCatalog.cs",
               "RelativeToolTip": "Ecommerce.Api\\Security\\PermissionCatalog.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAD4vw4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T06:30:45.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-30T06:30:45.31Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20261029202601_AddAgentApiKeys.cs",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029202601_AddAgentApiKeys.cs",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Migrations\\20261029202601_AddAgentApiKeys.cs",
               "RelativeDocumentMoniker": "Ecommerce.Api\\Migrations\\20261029202601_AddAgentApiKeys.cs",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029202601_AddAgentApiKeys.cs",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Migrations\\20261029202601_AddAgentApiKeys.cs",
               "RelativeToolTip": "Ecommerce.Api\\Migrations\\20261029202601_AddAgentApiKeys.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T20:39:41.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T20:39:41.686Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "20261029203933_initialData.cs",
               "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029203933_initialData.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Api\\Migrations\\20261029203933_initialData.cs",
+              "RelativeDocumentMoniker": "..\\..\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029203933_initialData.cs",
               "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029203933_initialData.cs",
-              "RelativeToolTip": "Ecommerce.Api\\Migrations\\20261029203933_initialData.cs",
+              "RelativeToolTip": "..\\..\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Migrations\\20261029203933_initialData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T20:39:33.892Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\appsettings.json",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Ecommerce.Api\\appsettings.json",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\appsettings.json",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\appsettings.json",
               "RelativeToolTip": "Ecommerce.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-10-29T20:36:51.761Z",
               "EditorCaption": ""
@@ -204,24 +216,23 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AgentIdentity.cs",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\AgentIdentity.cs",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\AgentIdentity.cs",
               "RelativeDocumentMoniker": "Ecommerce.Core\\AgentIdentity.cs",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\AgentIdentity.cs",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\AgentIdentity.cs",
               "RelativeToolTip": "Ecommerce.Core\\AgentIdentity.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAMwCMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T19:53:41.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T19:53:41.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Program.cs",
+              "DocumentMoniker": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Program.cs",
               "RelativeDocumentMoniker": "Ecommerce.Api\\Program.cs",
-              "ToolTip": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Program.cs",
-              "RelativeToolTip": "Ecommerce.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0BAAAfAAAAAAAAAA==",
+              "ToolTip": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Program.cs*",
+              "RelativeToolTip": "Ecommerce.Api\\Program.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAApwEIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T19:51:15.424Z",
               "EditorCaption": ""

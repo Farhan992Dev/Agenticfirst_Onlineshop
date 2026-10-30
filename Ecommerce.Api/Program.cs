@@ -63,6 +63,7 @@ builder.Services
     .AddScheme<Microsoft.AspNetCore.Authentication.AuthenticationSchemeOptions, ApiKeyAuthenticationHandler>(
         ApiKeyAuthenticationDefaults.AuthenticationScheme,
         _ => { });
+   
 
 builder.Services.AddAuthorization(options =>
 {

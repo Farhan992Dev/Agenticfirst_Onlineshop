@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Ecommerce.Api.csproj": {}
+    "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Ecommerce.Api.csproj": {}
   },
   "projects": {
-    "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Ecommerce.Api.csproj": {
+    "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Ecommerce.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Ecommerce.Api.csproj",
+        "projectUniqueName": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Ecommerce.Api.csproj",
         "projectName": "Ecommerce.Api",
-        "projectPath": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\Ecommerce.Api.csproj",
+        "projectPath": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\Ecommerce.Api.csproj",
         "packagesPath": "C:\\Users\\Tirdad\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Api\\obj\\",
+        "outputPath": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\Ecommerce.Core.csproj": {
-                "projectPath": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\Ecommerce.Core.csproj"
+              "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+                "projectPath": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\Ecommerce.Core.csproj"
               }
             }
           }
@@ -49,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
@@ -92,6 +92,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.33, 8.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.33, 8.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.33, 8.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.33, 8.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -100,18 +118,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\Ecommerce.Core.csproj": {
+    "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\Ecommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectUniqueName": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "projectName": "Ecommerce.Core",
-        "projectPath": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\Ecommerce.Core.csproj",
+        "projectPath": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\Ecommerce.Core.csproj",
         "packagesPath": "C:\\Users\\Tirdad\\.nuget\\packages\\",
-        "outputPath": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\obj\\",
+        "outputPath": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -145,7 +163,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
@@ -162,12 +180,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.33, 8.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.33, 8.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.33, 8.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

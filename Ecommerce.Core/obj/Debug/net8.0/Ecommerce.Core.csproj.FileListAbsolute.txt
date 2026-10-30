@@ -9,3 +9,15 @@ D:\MyProject\AgentFirstEcommerce-Secure-v4\AgentFirstEcommerce_Secure\src\Ecomme
 D:\MyProject\AgentFirstEcommerce-Secure-v4\AgentFirstEcommerce_Secure\src\Ecommerce.Core\obj\Debug\net8.0\refint\Ecommerce.Core.dll
 D:\MyProject\AgentFirstEcommerce-Secure-v4\AgentFirstEcommerce_Secure\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.pdb
 D:\MyProject\AgentFirstEcommerce-Secure-v4\AgentFirstEcommerce_Secure\src\Ecommerce.Core\obj\Debug\net8.0\ref\Ecommerce.Core.dll
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.deps.json
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.dll
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\bin\Debug\net8.0\Ecommerce.Core.pdb
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfoInputs.cache
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.AssemblyInfo.cs
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.csproj.CoreCompileInputs.cache
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.sourcelink.json
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.dll
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\refint\Ecommerce.Core.dll
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\Ecommerce.Core.pdb
+D:\MyProject\AgentiFirstOnlineShop\src\Ecommerce.Core\obj\Debug\net8.0\ref\Ecommerce.Core.dll

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6Hnx2+lCoUc=",
+  "dgSpecHash": "xq+iaI3Zvx4=",
   "success": true,
-  "projectFilePath": "D:\\MyProject\\AgentFirstEcommerce-Secure-v4\\AgentFirstEcommerce_Secure\\src\\Ecommerce.Core\\Ecommerce.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\MyProject\\AgentiFirstOnlineShop\\src\\Ecommerce.Core\\Ecommerce.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tirdad\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Tirdad\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\Tirdad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512"
+  ],
   "logs": []
 }
